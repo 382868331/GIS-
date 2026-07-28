@@ -1,0 +1,10 @@
+api/.venv/
+api/.env
+api/data/
+api/*.log
+web/node_modules/
+web/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+.openai-docs-cache/
